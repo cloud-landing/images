@@ -1,0 +1,2 @@
+brands/**/*.[mM][pP]4 filter=lfs diff=lfs merge=lfs -text
+brands/**/*.[zZ][iI][pP] filter=lfs diff=lfs merge=lfs -text
